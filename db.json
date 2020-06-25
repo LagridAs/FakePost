@@ -59,5 +59,12 @@
         "date": "2020-06-24T17:56:01.822Z"
       }
     }
+  ],
+  "videos": [
+    {"id":"39ce76b9e5874cfaa237",
+     "detail":{
+       "src":"my URL",
+       "date":"2020-06-06T07:43:25.062Z",
+       "user":"XEezu6U8F6Uwi54a5VZYTcnA6I33"}}
   ]
 }
