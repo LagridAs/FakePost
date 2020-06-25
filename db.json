@@ -11,8 +11,7 @@
         "title": "Coronavirus Outbreak: Daily Updates",
         "url": "https://www.healthline.com/health-news/coronavirus-live-updates",
         "siteName": "Healthline"
-      },
-      "date": "2020-06-24T17:57:31.906Z"
+      }
     }
   },
   {
@@ -27,8 +26,7 @@
         "description": "Severe cases of COVID-19 can cause lasting damage to the lungs that may necessitate surgery or even organ transplants.",
         "title": "Lifelong Lung Damage: A Serious COVID-19 Complication",
         "url": "https://www.healthline.com/health-news/lifelong-lung-damage-the-serious-covid-19-complication-that-can-hit-people-in-their-20s"
-      },
-      "date": "2020-06-24T17:57:32.898Z"
+      }
     }
   },
   {
@@ -37,7 +35,6 @@
       "src": "https://www.youtube.com/watch?v=7qsjwpMx9FE",
       "type": "YOUTUBE",
       "contenu": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7qsjwpMx9FE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "date": "2020-06-19T21:20:42Z"
     }
   },
   {
@@ -46,14 +43,12 @@
       "src": "https://sw-ke.es-es.prod.facebook.com/MedicalNewsToday/posts/2861321913923579",
       "type": "FACEBOOK",
       "contenu": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fsw-ke.es-es.prod.facebook.com%2FMedicalNewsToday%2Fposts%2F2861321913923579&show_text=false&width=1000&appId=292150935083997&height=1000\" width=\"100%\" height=\"100%\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe>",
-      "date": "2020-06-24T17:48:21.607Z"
     }
   },
   {
     "id": "5d35a5ef5a6b48a8a43e",
     "detail": {
       "contenu": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSANTE.NEWS%2Fposts%2F2595425494057012%2F&show_text=false&width=1000&appId=292150935083997&height=1000\" width=\"100%\" height=\"100%\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe>",
-      "date": "2020-06-24T17:56:01.822Z",
       "src": "https://www.facebook.com/SANTE.NEWS/posts/2595425494057012/",
       "type": "FACEBOOK"
     }
