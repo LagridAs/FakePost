@@ -61,26 +61,23 @@
     }
   ],
   "videos": [
-    {"id":"39ce76b9e5874cfaa237",
-     "detail":{
-       "src":"https://firebasestorage.googleapis.com/v0/b/coronawatch-62206.appspot.com/o/internautes%2F20200619_122508.mp4?alt=media&token=77fa9f0a-65a7-4ea0-a247-ab410f8a05d0",
-       "date":"2020-05-06T07:43:25.062Z",
-       "user":"XEezu6U8F6Uwi54a5VZYTcnA6I33"
-     }
+    {
+        "id": "39ce76b9e5874cfaa237",
+        "detail": {
+            "src": "https://s2.germany.travel/media/content/deutschland_bei_nacht/Deutschland_bei_Nacht_lang_EN.mp4",
+            "title": "my daily life",
+            "date": "2020-06-06T07:43:25.062Z",
+            "user": "XEezu6U8F6Uwi54a5VZYTcnA6I33"
+        }
     },
-    {"id":"39ce76b9e5874cfaa247",
-     "detail":{
-       "src":"https://firebasestorage.googleapis.com/v0/b/coronawatch-62206.appspot.com/o/internautes%2F20200619_122508.mp4?alt=media&token=77fa9f0a-65a7-4ea0-a247-ab410f8a05d0",
-       "date":"2020-06-06T07:43:25.062Z",
-       "user":"XEezu6U8F6Uwi54a5VZYTcnA6I33"
-     }
-    },
-    {"id":"39ce76b9e5874cfaa257",
-     "detail":{
-       "src":"https://firebasestorage.googleapis.com/v0/b/coronawatch-62206.appspot.com/o/internautes%2F20200618_123054.mp4?alt=media&token=20df1486-50ef-4110-9cbb-5a612af22e72",
-       "date":"2020-07-06T07:43:25.062Z",
-       "user":"XEezu6U8F6Uwi54a5VZYTcnA6I33"
-     }
+    {
+        "id": "a8cab625af194185a6cf",
+        "detail": {
+            "title": "미디오 2",
+            "date": "18-06-2020",
+            "user": "GMMEJwXRYNX0cakx62ajO8V3ypU2",
+            "src": "https://s2.germany.travel/media/content/deutschland_bei_nacht/Deutschland_bei_Nacht_lang_EN.mp4"
+        }
     }
   ]
 }
